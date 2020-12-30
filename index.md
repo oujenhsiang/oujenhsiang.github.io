@@ -17,17 +17,27 @@ author: Jen-Hsiang Ou
 
 ## EDUCATION
 
-### Doctoral Student (2020 - )
+### Doctoral Student
+
+2020 - Recent
 
 - Computational genetics
 - Uppsala University
 
-### Master (2016 - 2018)
+
+
+### Master
+
+2016 - 2018
 
 - Statistics and Bioinformatics
 - National Taiwan University
 
-### Bachelor (2012 - 2016)
+
+
+### Bachelor
+
+2012 - 2016
 
 - Agronomy
 - National Taiwan University
@@ -36,46 +46,82 @@ author: Jen-Hsiang Ou
 
 ---
 
+
+
 ## EXPERIENCES
 
-### Teaching Assistant (Autumn 2020)
+### Teaching Assistant
+
+Autumn 2020
 
 - Comparative Genomics for Biomedicine (3MR100)
 
-### Lecturer/Teaching Assistant (Spring 2020)
+
+
+### Lecturer/Teaching Assistant
+
+Spring 2020
 
 - Bioinformatics (3MR103)
 
-### Research Assistant (Aug 2019 - Jan 2020)
+
+
+### Research Assistant
+
+Aug 2019 - Jan 2020
 
 - Computational genetics and Bioinformatics
 - Uppsala University
 
-### Research Assistant (Sep 2018 - Jul 2019)
+
+
+### Research Assistant
+
+Sep 2018 - Jul 2019
 
 - Statistics and Bioinformatics
 - National Taiwan Univerisity
 
-### Teaching Assistant (2017 - 2018)
+
+
+### Teaching Assistant
+
+2017 - 2018
 
 - Statistical methods for agronomists (Advanced Experimental Design)
 - Applied linear statistical models
 
-### Lecturer (2016 - 2018)
+
+
+### Lecturer 
+
+2016 - 2018
 
 - Statistical software practices (R, SAS)
 
-### Internship (2015)
+
+
+### Internship
+
+2015
 
 - Animal palatability studies
 - Livestock Research Institute, Council of Agriculture
 
-### Internship (2014)
+
+
+### Internship
+
+2014
 
 - Soilless medium development
 - Taipei sub-station, Taoyuan District Agricultural Research and Extension Station
 
-### Research Assistant (2013 - 2014)
+
+
+### Research Assistant
+
+2013 - 2014
 
 - Trait investigation and gene expression test
 - National Taiwan University & Academia Sinica
@@ -83,6 +129,8 @@ author: Jen-Hsiang Ou
 
 
 ---
+
+
 
 ## RESEARCH PROJECTS
 
